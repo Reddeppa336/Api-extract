@@ -1,0 +1,14 @@
+# Output files
+results.txt
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
