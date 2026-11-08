@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🔍 Endpoints Extractor
 
 A lightweight Bash-based web reconnaissance tool for extracting absolute HTTP and HTTPS URLs from webpage responses.
@@ -207,9 +208,7 @@ Writes the collected results into the specified file.
 
 📊 Example Output
 
-========================================
-       ENDPOINTS EXTRACTOR
-========================================
+   ENDPOINTS EXTRACTOR
 
 Scanning URL: https://example.com
 
