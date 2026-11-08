@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🔍 Endpoints Extractor
 
 A lightweight Bash-based web reconnaissance tool for extracting absolute HTTP and HTTPS URLs from webpage responses.
